@@ -21,3 +21,7 @@ pip install pandas fpdf
 execute ao arquivo principal
 python main.py
 
+📌 Melhorias Futuras
+✨ Adicionar um QR Code para verificação.
+📧 Automatizar o envio dos certificados por e-mail.
+🌍 Suporte para múltiplos idiomas.
